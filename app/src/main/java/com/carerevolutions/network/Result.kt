@@ -1,5 +1,6 @@
 package com.carerevolutions.myapplication
 
+import com.carerevolutions.network.ApiError
 import org.json.JSONArray
 import org.json.JSONObject
 

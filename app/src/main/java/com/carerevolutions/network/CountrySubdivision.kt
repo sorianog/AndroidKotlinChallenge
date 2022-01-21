@@ -1,4 +1,4 @@
-package com.carerevolutions.myapplication
+package com.carerevolutions.network
 
 import com.fasterxml.jackson.annotation.JsonProperty
 import java.io.Serializable

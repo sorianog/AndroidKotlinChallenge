@@ -1,15 +1,17 @@
-package com.carerevolutions.myapplication
+package com.carerevolutions.network
 
 import com.android.volley.AuthFailureError
 import com.android.volley.Response
 import com.android.volley.VolleyError
 import com.android.volley.toolbox.JsonArrayRequest
 import com.android.volley.toolbox.JsonObjectRequest
+import com.carerevolutions.myapplication.*
+import com.carerevolutions.ui.CareRevApplication
 import org.json.JSONArray
 
 import org.json.JSONObject
 
-class VolleyService {
+class CareRevService {
 
     companion object {
 

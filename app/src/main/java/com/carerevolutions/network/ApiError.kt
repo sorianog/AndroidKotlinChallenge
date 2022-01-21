@@ -1,5 +1,6 @@
-package com.carerevolutions.myapplication
+package com.carerevolutions.network
 
+import com.carerevolutions.ui.CareRevApplication
 import com.fasterxml.jackson.annotation.JsonProperty
 import com.fasterxml.jackson.module.kotlin.readValue
 

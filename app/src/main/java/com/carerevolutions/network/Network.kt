@@ -5,6 +5,7 @@ import com.android.volley.Request
 import com.android.volley.RequestQueue
 import com.android.volley.toolbox.HurlStack
 import com.android.volley.toolbox.Volley
+import com.carerevolutions.ui.SingletonHolder
 import okhttp3.OkHttpClient
 
 class Network private constructor(context: Context) {
